@@ -1,6 +1,6 @@
 # Trato Hecho · Cotizaciones móviles
 
-Proyecto Android nativo para el caso DSY1105 **Trato Hecho**, desarrollado en Kotlin + Jetpack Compose, con MVVM, Room 2.7.2 y DataStore.
+Proyecto Android nativo para el caso **Trato Hecho**, desarrollado en Kotlin + Jetpack Compose, con MVVM, Room 2.7.2 y DataStore.
 
 ## Credenciales de prueba
 La pantalla de login no muestra cuentas demo. Para pruebas académicas use contraseña `123456`:
